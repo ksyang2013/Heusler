@@ -8,3 +8,7 @@ A collection of POSCARs for the predicted thermodynamically stable 363 full Heus
 http://dx.doi.org/10.1021/acsami.1c20945  
 
 #Section 2
+A collection of POSCARs for the screened thermodynamically stable 776 quaternary Heusler compounds with magnetic moments large than 0.2 miu_B from the Open Quantum Materials Database (OQMD). 
+For more detailed data, including convex hull distance, formation energy, lattice parameters, spin moment, and magnetic type, please refer to the research article mentioned below (see supplementary table). The magnetic ground states were determined through high-throughput ab-initio calculations. When utilizing these POSCARs in any form, kindly consider citing the research article and OQMD as the data source.
+
+(2) Sicong Jiang and Kesong Yang*, High-throughput Screening Design of Quaternary Heusler Materials for Perpendicular Magnetic Tunnel Junctions, npj Computational Materials (in press)
